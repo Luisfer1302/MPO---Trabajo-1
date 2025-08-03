@@ -1,0 +1,146 @@
+[
+    {
+        "pregunta": "¿Qué extensión tienen los archivos de Python?",
+        "opciones": [
+            "A. .txt",
+            "B. .py",
+            "C. .doc",
+            "D. .java"
+        ],
+        "respuesta_correcta": "B",
+        "tema": "Python",
+        "dificultad": "Fácil"
+    },
+    {
+        "pregunta": "¿Qué instrucción se usa en Python para mostrar texto en pantalla?",
+        "opciones": [
+            "A. speak()",
+            "B. white()",
+            "C. print()",
+            "D. say()"
+        ],
+        "respuesta_correcta": "C",
+        "tema": "Python",
+        "dificultad": "Fácil"
+    },
+     {
+        "pregunta": "¿Qué palabra clave se usa para definir una función en Python?",
+        "opciones": [
+            "A. function",
+            "B. def",
+            "C. define",
+            "D. fun"
+        ],
+        "respuesta_correcta": "B",
+        "tema": "Python",
+        "dificultad": "Fácil"
+    },
+    {
+        "pregunta": "¿Cómo se declara una lista en Python?",
+        "opciones": [
+            "A. lista = {1, 2, 3}",
+            "B. lista = (1, 2, 3)",
+            "C. lista = [1, 2, 3]",
+            "D. lista = <1, 2, 3>"
+        ],
+        "respuesta_correcta": "C",
+        "tema": "Python",
+        "dificultad": "Intermedio"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes operadores se usa para comparar igualdad en Python?",
+        "opciones": [
+            "A. =",
+            "B. ==",
+            "C. :=",
+            "D. !="
+        ],
+        "respuesta_correcta": "B",
+        "tema": "Python",
+        "dificultad": "Intermedio"
+    },
+    {
+        "pregunta": "¿Cómo se guarda el valor 8 en una variable llamada x?",
+        "opciones": [
+            "A. x==5",
+            "B. x:=5",
+            "C. x = 5",
+            "D. 5 = x"
+        ],
+        "respuesta_correcta": "C",
+        "tema": "Python",
+        "dificultad": "Intermedio"
+    },
+     {
+        "pregunta": "¿Qué es Java?",
+        "opciones": [
+            "A. Una marca de ordenadores",
+            "B. Un sistema operativo",
+            "C. Un lenguaje de programación",
+            "D. Un navegador web"
+        ],
+        "respuesta_correcta": "C",
+        "tema": "Java",
+        "dificultad": "Fácil"
+    },
+     {
+        "pregunta": "¿Qué extensión tienen los archivos de código fuente en Java?",
+        "opciones": [
+            "A. .jav",
+            "B. .class",
+            "C. .java",
+            "D. .py"
+        ],
+        "respuesta_correcta": "C",
+        "tema": "Java",
+        "dificultad": "Fácil"
+    },
+     {
+        "pregunta": "¿Cómo empieza todo programa en Java?",
+        "opciones": [
+            "A. void main()",
+            "B. public static void main(String[] args)",
+            "C. start()",
+            "D. main()"
+        ],
+        "respuesta_correcta": "B",
+        "tema": "Java",
+        "dificultad": "Fácil"
+    },
+    {
+        "pregunta": "¿Qué instrucción se usa para mostrar texto en pantalla en Java?",
+        "opciones": [
+            "A. print(\"Hola\");",
+            "B. System.print(\"Hola\");",
+            "C. echo(\"Hola\");",
+            "D. System.out.println(\"Hola\");"
+        ],
+        "respuesta_correcta": "D",
+        "tema": "Java",
+        "dificultad": "Intermedio"
+    },
+    {
+        "pregunta": "¿Con qué palabra se declara una variable entera en Java?",
+        "opciones": [
+            "A. num",
+            "B. number",
+            "C. int",
+            "D. float"
+        ],
+        "respuesta_correcta": "C",
+        "tema": "Java",
+        "dificultad": "Intermedio"
+    },
+    {
+        "pregunta": "¿Qué símbolo se usa para terminar una instrucción en Java?",
+        "opciones": [
+            "A. ,",
+            "B. .",
+            "C. :",
+            "D. ;"
+        ],
+        "respuesta_correcta": "D",
+        "tema": "Java",
+        "dificultad": "Intermedio"
+    }
+]

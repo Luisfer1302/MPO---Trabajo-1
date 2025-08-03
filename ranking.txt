@@ -1,0 +1,7 @@
+Luis,80.00
+Luisfer,100.00
+Luis,100.00
+Luisfer,0.00
+Luis,100.00
+Luis,100.00
+Luis,0.00
