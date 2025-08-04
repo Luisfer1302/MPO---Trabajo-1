@@ -60,7 +60,7 @@
         "dificultad": "Intermedio"
     },
     {
-        "pregunta": "¿Cómo se guarda el valor 8 en una variable llamada x?",
+        "pregunta": "¿Cómo se guarda el valor 5 en una variable llamada x?",
         "opciones": [
             "A. x==5",
             "B. x:=5",
